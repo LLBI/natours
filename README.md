@@ -10,6 +10,6 @@ Part of my autodidactic journey and what I've managed to code up taking Udemy co
 #### Tools used:
 - CSS and SCSS;
 - BEM;
-- Advaned CSS styles and animations;
+- Advanced CSS styles and animations;
 
 
